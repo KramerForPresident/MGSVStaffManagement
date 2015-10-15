@@ -1,0 +1,3 @@
+# MGSVStaffManagement
+Staff management simulator.
+
